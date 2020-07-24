@@ -12,7 +12,9 @@ To run: ./rcv <clock_IP> <wait_thres> <clock_enable> <bass_enable> <num_clock_pa
 
 Options: 
 
-+ wai_thres: sleep time to simulate VM scheduling (microseconds) 0 to disable VM scheduling
++ wai_thres: sleep time to simulate VM scheduling (microseconds)
+
+  0 to disable VM scheduling simulation
 
 + clock_enable:
 
